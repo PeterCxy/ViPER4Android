@@ -3,7 +3,7 @@ name=ViPER4Android FX
 version=v2.5.0.5
 versionCode=4
 author=ViPER’s Audio
-description=Popular sound mod by ViPER’s Audio, ported to Magisk by topjohnwu
+description=Popular sound mod by ViPER’s Audio, ported to Magisk by topjohnwu, modified by PeterCxy
 support=https://www.androidfilehost.com/?fid=312978532265364193
 donate=http://vipersaudio.com/blog/?page_id=95
 cacheModule=false
